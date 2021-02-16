@@ -1,7 +1,7 @@
 # Countries-in-need-of-attention
+Using PCA Algorithm & Clustering
 
-# PCA Algorithm & Clustering
-Steps:
+## Steps:
 1. Read and understand the data
 2. Outlier Testing
 3. Visualize the correlation and Data Preparation
